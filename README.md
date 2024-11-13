@@ -4,10 +4,10 @@
 This project demonstrates a data cleaning and visualization process in Microsoft Excel. The goal is to transform raw data into a user-friendly dashboard that provides insights into income and bike purchase behavior, segmented by demographic factors.
 
 ## **Features**
-- Data Cleaning: Standardized data formatting to ensure consistency and accuracy.
-- Pivot Table Creation: Developed multiple pivot tables to support data analysis and dashboard visualization.
-- Dashboard Visualizations: Built dynamic charts and tables to showcase bike purchases by age group, income level, and other demographics.
-- User Interaction: Incorporated slicers to allow users to filter data by various demographic criteria for deeper insights.
+- **Data Cleaning:** Standardized data formatting to ensure consistency and accuracy.
+- **Pivot Table Creation:** Developed multiple pivot tables to support data analysis and dashboard visualization.
+- **Dashboard Visualizations:** Built dynamic charts and tables to showcase bike purchases by age group, income level, and other demographics.
+- **User Interaction:** Incorporated slicers to allow users to filter data by various demographic criteria for deeper insights.
 
 ## **Project Steps**
 1. Data Cleaning
