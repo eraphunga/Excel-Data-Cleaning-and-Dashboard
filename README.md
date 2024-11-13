@@ -15,12 +15,14 @@ This project demonstrates a data cleaning and visualization process in Microsoft
  - Removed duplicates, handled missing values, and standardized numerical and text fields.
    
 2. **Pivot Tables**
+
 Created three pivot tables for bike purchase data:
  - Income level analysis.
  - Purchase behavior by age group.
  - Demographic breakdown for targeted insights.
 
 3. **Dashboard Development**
+
 Designed an interactive dashboard for clear visualization of:
  - Income and bike purchase analysis.
  - Bike purchases segmented by age group.
